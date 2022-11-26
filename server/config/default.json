@@ -1,0 +1,5 @@
+{
+    "serverPort":5000,
+    "dbUrl":"mongodb+srv://nikich123:3322332211@cluster0.atuajra.mongodb.net/cloud?retryWrites=true&w=majority",
+    "secretKey":"pipochka-lyalechka"
+}
